@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/wolfjfly/challenge-9-bw.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Ben Wolf",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wolfjfly/challenge-9-bw/issues"
   },
