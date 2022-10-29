@@ -1,0 +1,25 @@
+## questions for user inputs
+    Project title
+    description
+    installation instructions
+    usage information
+    contribution guidelines
+    test instructions
+    license for application
+    GitHub username
+    email address
+
+##list of options
+    license for application
+
+
+##badge for license
+    added near the top of the README
+
+##notice for license is added to the section of the README entitled License
+
+##click on the links in the Table of Contents
+
+## https://www.npmjs.com/package/inquire
+
+## https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
