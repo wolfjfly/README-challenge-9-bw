@@ -13,7 +13,7 @@
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-  [![License Badge](https://img.shields.io/badge/license-${data.license}-success?style=plastic)](https://choosealicense.com/licenses/${data.license.toLowerCase()}/)
+  [![License Badge](https://img.shields.io/badge/license-${data.license}-success?style=plastic)](https://choosealicense.com/licenses/${data.license}/)
 
   # ${data.title}
 
@@ -25,9 +25,9 @@ function generateMarkdown(data) {
   2. [Usage](#usage)
   3. [Contributing](#contributing)
   4. [Credits](#credits)
-  4. [Tests](#tests)
-  5. [License](#license)
-  6. [Questions](#questions)
+  5. [Tests](#tests)
+  6. [License](#license)
+  7. [Questions](#questions)
   
   ## Installation
   ${data.installation}
@@ -47,7 +47,7 @@ function generateMarkdown(data) {
 
   ## License
   Copyright (c) [${data.username}](https://github.com/${data.username}). All rights reserved. 
-  \nLicensed under the [${data.license} license](https://choosealicense.com/licenses/${data.license.toLowerCase()}/).
+  \nLicensed under the [${data.license} license](https://choosealicense.com/licenses/${data.license}/).
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
   ## Questions

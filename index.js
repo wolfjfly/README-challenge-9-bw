@@ -25,7 +25,7 @@ const questions = [
 
     {
         type:'input',
-        message:'Provide instructions and examples for use. Include screenshots as needed.',
+        message:'Provide instructions and examples for use.',
         name:'usage',
     },
 
@@ -43,7 +43,7 @@ const questions = [
 
     {
         type:'Input',
-        message:'Go the extra mile and write tests for your application. Then provide examples on how to run them here.',
+        message:'How to test your project.',
         name:'test',
     },
 
@@ -75,8 +75,8 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() {inquirer
-.createPromptModule(questions)
-.then((response) => writeToFile(generateMarkdown(response)));
+        .prompt(questions)
+        .then((response) => writeToFile(generateMarkdown(response)));
 }
 
 // Function call to initialize app
