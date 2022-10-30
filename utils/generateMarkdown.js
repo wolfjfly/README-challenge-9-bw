@@ -11,15 +11,20 @@
 // function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
+
+// ![GitHub](https://img.shields.io/github/license/wolfjfly/challenge-9-bw?style=plastic)
+
 function generateMarkdown(data) {
   return `# ${data.title}
-  [![License Badge](https://img.shields.io/badge/license-${data.license}-success?style=plastic)](https://choosealicense.com/licenses/${data.license}/)
-
+  
   # ${data.title}
 
   ## Description
   ${data.description}
 
+  [![License Badge](https://img.shields.io/badge/license-${data.license}-success?style=plastic)](https://choosealicense.com/licenses/${data.license.toLowerCase()}/)
+  
+  
   ## Table of Contents
   1. [Installation](#installation)
   2. [Usage](#usage)
@@ -47,7 +52,7 @@ function generateMarkdown(data) {
 
   ## License
   Copyright (c) [${data.username}](https://github.com/${data.username}). All rights reserved. 
-  \nLicensed under the [${data.license} license](https://choosealicense.com/licenses/${data.license}/).
+  \nLicensed under the [${data.license} license](https://choosealicense.com/licenses/${data.license.toLowerCase()}/)
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
   ## Questions
@@ -56,6 +61,7 @@ function generateMarkdown(data) {
   - Email: [${data.email}](mailto:${data.email})
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
   `;
+  
 }
 
 module.exports = generateMarkdown;
