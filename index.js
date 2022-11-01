@@ -83,10 +83,6 @@ function init() {
             err ? console.log(err) : console.log('README file has been succesfully generated 🎆')
             );
     })
-        // .catch((err)=>{
-        // err ? console.error(err) : console.log('README file has been succesfully generated 🎆');
-        // });
-        
 }
 
 // Function call to initialize app

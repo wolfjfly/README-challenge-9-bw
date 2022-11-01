@@ -1,11 +1,11 @@
 <p id="bringToTop"></p>
   
-  # 
+  # thigs things
   
-  # 
+  # thigs things
 
   ## Description
-  
+  thigs things
 
   [![License Badge](https://img.shields.io/badge/license-MIT-success?style=plastic)](https://choosealicense.com/licenses/mit/)
   
@@ -20,30 +20,30 @@
   7. [Questions](#questions)
   
   ## Installation
-  
-  <p align="right">(<a href="#bringToTop">back to top</a>)</p>
+  thigs things
+  <p align="center">(<a href="#bringToTop">Bring to top of page</a>)</p>
 
   ## Usage
-  
-  <p align="right">(<a href="#bringToTop">back to top</a>)</p>
+  thigs things
+  <p align="center">(<a href="#bringToTop">Bring to top of page</a>)</p>
 
   ## Contributing
-  
-  <p align="right">(<a href="#bringToTop">back to top</a>)</p>
+  thigs things
+  <p align="center">(<a href="#bringToTop">Bring to top of page</a>)</p>
 
   ## Tests
-  
-  <p align="right">(<a href="#bringToTop">back to top</a>)</p>
+  thigs things
+  <p align="center">(<a href="#bringToTop">Bring to top of page</a>)</p>
 
   ## License
-  Copyright (c) [](https://github.com/). All rights reserved. 
+  Copycenter (c) [thigs things](https://github.com/thigs things). All centers reserved. 
   
 Licensed under the [MIT license](https://choosealicense.com/licenses/mit/)
-  <p align="center">(<a href="#bringToTop">back to top</a>)</p>
+  <p align="center">(<a href="#bringToTop">Bring to top of page</a>)</p>
 
   ## Questions
   Feel free to contact me with questions or comments @:
-  - GitHub: [](https://github.com/)
-  - Email: [](mailto:)
-  <p align="center">(<a href="#bringToTop">back to top</a>)</p>
+  - GitHub: [thigs things](https://github.com/thigs things)
+  - Email: [thigs things](mailto:thigs things)
+  <p align="center">(<a href="#bringToTop">Bring to top of page</a>)</p>
   
