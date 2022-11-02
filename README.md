@@ -53,7 +53,7 @@ Licensed under the [MIT license](https://choosealicense.com/licenses/mit/)
 
 https://drive.google.com/file/d/17Pk4b-vOllKNZnTZJWhX3FfQfmQYBHUG/view
 
-## Githhub repo 
+## Github repo 
 
 https://github.com/wolfjfly/README-challenge-9-bw
 
