@@ -19,7 +19,7 @@ Usage
 In the terminal type ‘node index.js’
 
 
-<iframe src="https://drive.google.com/file/d/17Pk4b-vOllKNZnTZJWhX3FfQfmQYBHUG/preview" width="640" height="480"></iframe>
+<img width="1207" alt="Demo" src="https://drive.google.com/file/d/17Pk4b-vOllKNZnTZJWhX3FfQfmQYBHUG/preview">
 
 
 Contributing
