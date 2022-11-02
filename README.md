@@ -18,6 +18,10 @@ Install node v14 or greater, Install inquirer 8.2.4
 Usage
 In the terminal type ‘node index.js’
 
+
+
+
+
 Contributing
 To contribute please follow the link and read the contributing guide. https://github.com/github/docs/blob/dd9f70f9e7edb76e79fc43dee8fb3b8b8dfd1d20/CONTRIBUTING.md
 
